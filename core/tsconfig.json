@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es6"],
+    "types": ["reflect-metadata"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "rootDir": "./src/",
+    "allowJs": false,
+    "removeComments": false,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "declaration": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "exclude": [
+    "node_modules",
+    "src/node_modules",
+    "src/test"
+  ]
+}

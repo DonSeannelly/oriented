@@ -1,0 +1,17 @@
+{
+  "name": "@oriented/core",
+  "version": "0.1.0",
+  "description": "Core libraries for use in the Oriented framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Donnelly",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.12"
+  },
+  "devDependencies": {
+    "@types/reflect-metadata": "^0.1.0"
+  }
+}

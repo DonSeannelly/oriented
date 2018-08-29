@@ -1,0 +1,15 @@
+{
+  "name": "@oriented/express",
+  "version": "1.0.2",
+  "description": "Express drivers for use in the oriented framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Donnelly",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
